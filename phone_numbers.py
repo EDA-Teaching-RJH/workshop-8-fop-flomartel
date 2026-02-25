@@ -1,3 +1,5 @@
+
+#REGEX pattern that validates standard UK mobile phone numbers
 import re
 
 number = input("What is your phone number? ")
